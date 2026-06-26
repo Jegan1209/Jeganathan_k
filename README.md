@@ -1,11 +1,10 @@
-# Jeganathan_k
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeganathan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Science%20Explorer&descAlignY=62&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jeganathan+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Jeganathan-K&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Jegan1209&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -85,8 +84,8 @@ print(me.motto())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeganathan-K&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeganathan-K&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jegan1209&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan1209&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -96,7 +95,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jeganathan-K&theme=tokyonight&background=0d1117&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jegan1209&theme=tokyonight&background=0d1117&hide_border=true&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
 
 </div>
 
@@ -106,7 +105,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Jeganathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeganathan-K&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeganathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jegan1209&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -116,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jeganathan-K&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jegan1209&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -200,7 +199,7 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeganathan-k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeganathan-K)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jegan1209)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jeganathan-k.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeganathanj85@gmail.com)
 
